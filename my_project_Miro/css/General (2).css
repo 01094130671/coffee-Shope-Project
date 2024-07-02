@@ -1,0 +1,135 @@
+
+
+
+.bodyyyy{
+    font-family:Jost ;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+  
+   }
+
+
+/* 
+.body .mybtn1,
+.body .mybtn2,
+.body .mybtn3,
+.body .mybtn4
+{
+    font-family:Jost ;
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 1.5;
+  
+   } */
+   .mybtn1{
+    color: black;
+    
+    width:auto ;
+   width: auto;
+   height: auto;
+   padding: 8px 10px;
+   margin: 8px 10px;
+   }
+    
+   .mybtn1:hover{
+    color: white ;
+    background-color:black;
+    width:auto ;
+   width: auto;
+   height: auto;
+   padding: 8px 10px;
+   margin: 8px 10px;
+   }
+   .mybtn2{
+    color:white;
+   background-color: black;    
+    width:auto ;
+   width: auto;
+   height: auto;
+   padding: 8px 10px;
+   margin: 8px 10px;
+   }
+    
+   .mybtn2:hover{
+    color:black ;
+    background-color:white;
+    width:auto ;
+   width: auto;
+   height: auto;
+   padding: 8px 10px;
+   margin: 8px 10px;
+   }
+   .mybtn3{
+    color:white;
+   background-color: black;   
+    
+    width:auto ;
+   width: auto;
+   height: auto;
+   padding: 8px 10px;
+   margin: 8px 10px;
+   }
+    
+   .mybtn3:hover{
+    color:black ;
+    background-color:white;
+    width:auto ;
+   width: auto;
+   height: auto;
+   padding: 8px 10px;
+   margin: 8px 10px;
+   }
+   .mybtn4{
+    color:white;
+   background-color: black;   
+    
+    width:auto ;
+   width: auto;
+   height: auto;
+   padding: 8px 10px;
+   margin: 8px 10px;
+
+   }
+    
+   .mybtn4:hover{
+    color:black ;
+    background-color:rgba(210, 105, 30, 0.705);
+    width:auto ;
+   width: auto;
+   height: auto;
+   padding: 8px 10px;
+   margin: 8px 10px;
+   border-color: rgba(210, 105, 30, 0.685);
+   
+   }
+.mybtn__about__1 {
+    color:white;
+    background-color: black;   
+     
+     width:auto ;
+    width: auto;
+    height: auto;
+    padding: 8px 10px;
+    margin: 8px 10px;
+
+}
+.mybtn__about__1 {
+    color:black ;
+    background-color:white;
+    width:auto ;
+   width: auto;
+   height: auto;
+   padding: 8px 10px;
+   margin: 8px 10px;
+
+}
+
+
+
+
+
+
+
+
+   
